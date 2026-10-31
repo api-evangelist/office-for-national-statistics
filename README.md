@@ -64,5 +64,95 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Office for National Statistics is a company surfaced via the API Evangelist harvest backlog (source: tag-qc) and added to the network as a stub for full-pipeline profiling.
-- https://www.ons.gov.uk
+The Office for National Statistics (ONS) is the UK’s largest independent producer of official statistics. It provides a wide range of economic, population and social data through its website and APIs, supporting research, policy making and public insight. ONS publishes datasets on GDP, inflation, employment, demographics, and more, and offers developer resources for programmatic access to its statistical services.
+
+**Areas:** Government · Statistics · Data · United Kingdom · PublicSector
+
+## Office for National Statistics on APIs.io
+
+Everything profiled for Office for National Statistics is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/office-for-national-statistics/](https://apis.io/providers/office-for-national-statistics/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Office For National Statistics Domain Security](https://apis.io/security/office-for-national-statistics/office-for-national-statistics-domain-security/)
+- [Office For National Statistics Vulnerability Disclosure](https://apis.io/security/office-for-national-statistics/office-for-national-statistics-vulnerability-disclosure/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Office For National Statistics Rate Limits](https://apis.io/rate-limits/office-for-national-statistics/office-for-national-statistics-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.ons.gov.uk)
+- [Documentation](https://developer.ons.gov.uk)
+- [Getting started](https://developer.ons.gov.uk/tour/getting-started/)
+- [API reference](https://developer.ons.gov.uk)
+- [Support](https://www.ons.gov.uk/aboutus/contactus)
+- [Blog](https://blog.ons.gov.uk)
+- [Security](https://www.ons.gov.uk/help/report-vulnerability)
+- [Terms of service](https://www.ons.gov.uk/help/termsandconditions)
+- [Privacy policy](https://www.ons.gov.uk/help/privacynotice)
+- [GitHub](https://github.com/ONSdigital)
+
+## API Evangelist rating
+
+**Kin Score 26.3** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 46.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 47.4 |
+| Developer ergonomics | 51.7 |
+| Access clarity | 21.1 |
+
+**Agent readiness 5.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 19.6** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/office-for-national-statistics/](https://apis.io/providers/office-for-national-statistics/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Office for National Statistics: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/office-for-national-statistics/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
